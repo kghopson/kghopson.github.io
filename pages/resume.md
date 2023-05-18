@@ -2,7 +2,7 @@
 layout: post
 title: Resume
 permalink: /resume/
-img: "assets/img/resume/resume-screenshot-1.png"
+img: "assets/img/resume/resume-image.png"
 tags: [Page]
 ---
 ![image]({{ page.img | relative_url }})
