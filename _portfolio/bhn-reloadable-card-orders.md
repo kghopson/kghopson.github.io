@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reloadable Card Orders
-img: "assets/img/portfolio/adding-a-field-screenshot-border.png"
+img: "assets/img/portfolio/reloadable-image.png"
 tags: [Ipsum]
 ---
 

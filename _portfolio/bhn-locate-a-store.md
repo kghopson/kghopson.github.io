@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Locate a Store
-img: "assets/img/portfolio/adding-a-field-screenshot-border.png"
+img: "assets/img/portfolio/bhn-locate-image.png"
 tags: [Ipsum]
 ---
 

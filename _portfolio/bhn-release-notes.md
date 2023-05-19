@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hawk Marketplace Release Notes
-img: "assets/img/portfolio/adding-a-field-screenshot-border.png"
+img: "assets/img/portfolio/bhn-release-notes-image.png"
 tags: [Ipsum]
 ---
 
