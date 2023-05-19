@@ -6,7 +6,7 @@ tags: [Lorem, Ipsum]
 ---
 ![image]({{ page.img | relative_url }})
 
-**Sample type**: Documentation/Marketing
+**Sample type**: Marketing
 
 This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
 

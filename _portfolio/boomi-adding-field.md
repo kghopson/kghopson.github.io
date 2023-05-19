@@ -7,7 +7,7 @@ tags: [Ipsum]
 
 ![image]({{ page.img | relative_url }})
 
-**Sample type**: Documentation/How-to
+**Sample type**: How-to
 
 This sample is a quick how-to that demonstrates adding a field to an existing model and customizing its variables in Master Data Hub. 
 

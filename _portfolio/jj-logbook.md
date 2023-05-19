@@ -6,7 +6,7 @@ img: "assets/img/portfolio/logbook-schedule-border.png"
 
 ![image]({{ page.img | relative_url }})
 
-**Sample type**: Documentation/Support
+**Sample type**: Support
 
 This sample explains troubleshooting procedures for a mobile/web app syncing issue with OneTouch software. The audience was OneTouch Customer Care. 
 
