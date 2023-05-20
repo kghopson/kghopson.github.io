@@ -6,6 +6,8 @@ feature-img: "assets/img/portfolio/abstract.jpg"
 tags: [Page]
 ---
 
+Location: Hattiesburg, MS USA
+
 My ideal work culture encourages creativity and collaboration, and provides plenty of opportunities for growth. I work best in environments that are psychologically safe and 
 uphold a fair work-life balance. ​
 
