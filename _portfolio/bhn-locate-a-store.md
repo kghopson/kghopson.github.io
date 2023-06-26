@@ -11,5 +11,6 @@ tags: [Ipsum]
 
 This sample is a reference document that details the header, parameter, and response information for the Store Locators API, a new feature Digital Gift Services.
 
-<a href="https://raw.githubusercontent.com/kghopson/kghopson.github.io/aa73be70c12a65be28ef79564ef00166c23c272b/_portfolio/bhn-locate-a-store.pdf" target="_blank">Download the PDF</a>
+<a href="https://raw.githubusercontent.com/kghopson/kghopson.github.io/fcfcb2d9f61159fc21738adce9ed22c9335ed0d7/_portfolio/bhn-locate-a-store.pdf" 
+target="_blank">Download the PDF</a>
 
