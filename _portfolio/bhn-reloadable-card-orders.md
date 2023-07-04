@@ -11,5 +11,5 @@ tags: [Ipsum]
 
 This sample is a reference document that details ordering and adding funds to reloadable card types using the Hawk Marketplace APIs. 
 
-<a href="https://raw.githubusercontent.com/kghopson/kghopson.github.io/aa73be70c12a65be28ef79564ef00166c23c272b/_portfolio/bhn-reloadable-card-orders.pdf" target="_blank">Download the PDF</a>
+<a href="https://raw.githubusercontent.com/kghopson/kghopson.github.io/fe7813c8bc0bfed773717ffa64733e3251f6e7df/_portfolio/bhn-reloadable-card-orders.pdf" target="_blank">Download the PDF</a>
 
