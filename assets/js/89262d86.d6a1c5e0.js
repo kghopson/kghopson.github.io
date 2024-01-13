@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkghopson_github_io=self.webpackChunkkghopson_github_io||[]).push([[561],{3420:o=>{o.exports=JSON.parse('{"permalink":"/kghopson.github.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

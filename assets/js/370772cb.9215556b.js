@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkghopson_github_io=self.webpackChunkkghopson_github_io||[]).push([[9838],{3375:o=>{o.exports=JSON.parse('{"label":"hello","permalink":"/kghopson.github.io/blog/tags/hello","allTagsPath":"/kghopson.github.io/blog/tags","count":2,"unlisted":false}')}}]);
