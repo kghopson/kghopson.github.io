@@ -4,45 +4,53 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Resume',
+    link: '/docs/resume',
+    Svg: require('@site/static/img/undraw_resume_re_hkth.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        View and download my resume
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'About Me',
+    link: '/docs/about-me',
+    Svg: require('@site/static/img/undraw_mello_otq1.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn more about my background and hobbies
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Portfolio',
+    link: '/docs/category/portfolio',
+    Svg: require('@site/static/img/undraw_add_files_re_v09g.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Check out some curated samples
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Heading as="h3">
+          {link ? (
+            <a href={link} className={styles.featureLink}>
+              {title}
+            </a>
+          ) : (
+            title
+          )}
+        </Heading>
         <p>{description}</p>
       </div>
     </div>
@@ -50,9 +58,23 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
+  const introStyle = {
+    textAlign: 'center',
+    fontSize: '1.5rem', // Adjust the font size as needed
+    marginBottom: '3rem', // Add space below the intro paragraph
+  };
+
+  const bannerStyle = {
+    marginBottom: '2.5rem', // Increase the space between the banner and the intro paragraph
+  };
+
   return (
     <section className={styles.features}>
       <div className="container">
+        <div className="row" style={bannerStyle}>
+          <div className="col col--12" style={introStyle}>
+          </div>
+        </div>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
