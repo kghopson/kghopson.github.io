@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 11
 ---
 
 # Logbook Schedule in mobile app doesn't match Time Slots Schedule on web (Mobile 2.2.x - iOS)

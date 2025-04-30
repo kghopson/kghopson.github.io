@@ -10,14 +10,13 @@ Hello, how are you?
 
 My name is Kimberly Hopson and I'm a Senior Technical Writer. Thanks for visiting my page!
 
-With over 8 years in the documentation field, I bring experience and versatility to the table.
-I've dabbled in a variety of writing styles and formats, from technical editing and UI/UX writing
-to content marketing and API documentation. I can also handle documentation-specific challenges
-such as creating a review process or managing repositories.
+With over 9 years in the technical writing field, I bring experience and versatility to the table.
+I've written a variety of documentation types, from how-tos and UI/UX writing
+to video content, release notes, and API documentation. I also have experience planning documentation strategy and implementing new platforms.
 
-Currently, I am a technical writer for **BlueGrace Logistics**.
+Currently, I am a Technical Documentation Specialist at **ONEngine.ai**.
 
-Previously, I've written for large companies like **Blackhawk Network**, **Lucidworks**, **VMware**, **Johnson & Johnson**, and **Dell Boomi**.
+Previously, I've written documentation for companies like **Blackhawk Network**, **Lucidworks**, **VMware**, **Johnson & Johnson**, and **Dell Boomi**.
 
 Whether you're looking for user-friendly instructions or reference documents that won't make your head spin, I've got you covered.
 
