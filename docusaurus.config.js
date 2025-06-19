@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Your all-purpose technical writer',
   tagline: 'Versatility in words, mastery in lots of stuff',
-  favicon: 'img/tiny-dino-circle.png',
+  favicon: 'img/me-circle-vine.png',
 
   // Set the production url of your site here
   url: 'https://kghopson.github.io',
@@ -64,7 +64,7 @@ const config = {
         title: 'kghopson world',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/tiny-dino-circle.png',
+          src: 'img/me-circle-vine.png',
         },
         items: [
           {to: '/docs/resume', label: 'Resume', position: 'left'},
