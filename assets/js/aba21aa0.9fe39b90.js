@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkghopson_github_io=globalThis.webpackChunkkghopson_github_io||[]).push([[5742],{7093(o){o.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
